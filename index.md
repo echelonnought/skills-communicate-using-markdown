@@ -7,3 +7,7 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+const thisVariableWouldNotBeChanged = "This variable will not be changed";
+```

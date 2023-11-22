@@ -11,3 +11,6 @@
 ```
 const thisVariableWouldNotBeChanged = "This variable will not be changed";
 ```
+- [x] Added headers to index.md
+- [ ] Added image to index.md
+- [ ] Defined a constant variable in index.md
